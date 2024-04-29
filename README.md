@@ -1,7 +1,7 @@
 # Workshop 3：Images
 
 ## URL:
-https://noon0v0.github.io/Workshop_3/
+https://noon0v0.github.io/Workshop-task-3/
 
 
 ## Tasks:
